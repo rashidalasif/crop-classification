@@ -1,0 +1,85 @@
+.idea
+.DS
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+*.manifest
+*.spec
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Python virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# PyTorch / TensorFlow / Keras checkpoints
+*.pt
+*.pth
+*.h5
+*.ckpt
+
+# Logs
+logs/
+*.log
+tensorboard/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (optional - keep large datasets out of git)
+# data/
+*.csv
+*.tsv
+*.npy
+*.npz
+*.hdf5
+
+# VS Code / IDE settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
